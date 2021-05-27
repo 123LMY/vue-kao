@@ -1,0 +1,42 @@
+[
+  {
+    "ID": "1",
+    "MALL_CATEGORY_NAME": "新鲜水果",
+    "TYPE": "1",
+    "SORT": "0",
+    "COMMENTS": null,
+    "IMAGE": "http://images.baixingliangfan.cn/firstCategoryPicture/20180408/20180408111959_2837.png"
+  },
+  {
+    "ID": "2",
+    "MALL_CATEGORY_NAME": "中外名酒",
+    "TYPE": "1",
+    "SORT": "0",
+    "COMMENTS": null,
+    "IMAGE": "http://images.baixingliangfan.cn/firstCategoryPicture/20180408/20180408112010_4489.png"
+  },
+  {
+    "ID": "3",
+    "MALL_CATEGORY_NAME": "营养奶品",
+    "TYPE": "1",
+    "SORT": "0",
+    "COMMENTS": null,
+    "IMAGE": "http://images.baixingliangfan.cn/firstCategoryPicture/20180408/20180408113102_1595.png"
+  },
+  {
+    "ID": "4",
+    "MALL_CATEGORY_NAME": "个人护理",
+    "TYPE": "1",
+    "SORT": "0",
+    "COMMENTS": null,
+    "IMAGE": "http://images.baixingliangfan.cn/firstCategoryPicture/20180408/20180408112053_8191.png"
+  },
+  {
+    "ID": "5",
+    "MALL_CATEGORY_NAME": "食品饮料",
+    "TYPE": "1",
+    "SORT": "0",
+    "COMMENTS": null,
+    "IMAGE": "http://images.baixingliangfan.cn/firstCategoryPicture/20180408/20180408113048_1276.png"
+  }
+]
